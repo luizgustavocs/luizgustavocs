@@ -8,7 +8,7 @@ I'm Luiz Gustavo, passionate about technology, innovation, and building digital 
 
 ## Tech Stack & Architecture
 
-<img src="https://skillicons.dev/icons?i=java,spring,phyton,hibernate,ts,js,react,angular,nodejs,nestjs,html,css,tailwind,postgres,mysql,mongodb,redis,supabase,docker,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=java,spring,py,hibernate,ts,js,react,angular,nodejs,nestjs,html,css,tailwind,postgres,mysql,mongodb,redis,supabase,docker,git,github,vscode,vercel" />
 
 **Additional Stack:** Fastify • Prisma ORM • Turso/libSQL • Render • Railway • Upstash • React Native • Expo • React Navigation • AsyncStorage • Expo Haptics • EAS Build • Radix UI • React Router • Angular Signals • Reactive Forms • Recharts
 
