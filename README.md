@@ -29,4 +29,3 @@ My legal background also provides a strong perspective for technology environmen
 **Architecture & Patterns:** Layered Architecture • Service-Oriented Architecture (SOA) • Monorepos • Separation of Concerns • Strategy Pattern • Template Method Pattern • Distributed Queues • Service Decoupling
 
 **Authentication & Security:** JWT • Authentication & Authorization • Session Management • Supabase Auth • Environment Variable Security • Data Privacy
-
