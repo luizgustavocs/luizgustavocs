@@ -1,31 +1,60 @@
-🌎 **PT-BR**
+### Hi, I'm Luiz Gustavo 👋
 
-Sou Luiz Gustavo, **Desenvolvedor Full Stack**, apaixonado por tecnologia, desenvolvimento de software e construção de soluções digitais. Sou advogado brasileiro com inscrição ativa na OAB e apicultor por hobby, com uma trajetória marcada pela interseção entre raciocínio jurídico, análise de requisitos e desenvolvimento de aplicações.
+**Software Developer & Brazilian Lawyer (OAB) | Cybersecurity, Privacy (LGPD/GDPR) & GRC**
 
-Atuo no desenvolvimento de aplicações web, APIs, integrações, pipelines de processamento de dados, automações e aplicações mobile. Tenho experiência com arquitetura de software, processamento assíncrono, bancos de dados, qualidade de software, privacidade de dados e fundamentos de cibersegurança.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,go,py,php,react,angular,nextjs,nodejs,nestjs,express,laravel,electron,tailwind,postgres,mysql,sqlite,mongodb,redis,prisma,docker,nginx,githubactions,aws,vercel,git,github&perline=10" alt="Tech stack icons" />
+</p>
 
-Minha formação jurídica também contribui para minha atuação em ambientes que envolvem **LGPD, proteção de dados, compliance, requisitos regulatórios e regras de negócio complexas**.
+I build software and I understand the law that governs the data inside it. I have professional experience in enterprise systems and in end-to-end client projects, from requirements to deployment and support, and since 2022 I have practised law in Brazil with a focus on data protection. My career goal is cybersecurity and privacy: application security, GRC and data protection, where technical accuracy and regulatory knowledge meet.
 
-🌎 **EN**
+**Highlights**
+- Delivered an offline clinic management system (Electron, React, TypeScript, SQLite) and a website with an LGPD-compliant consent log to a dental and medical clinic.
+- Built CI/CD pipelines on GitHub Actions that build Docker images and deploy to a VPS behind Nginx.
+- Created **Raio-X**, a scanner that checks websites against the OWASP Top 10 and maps each finding to LGPD impact.
+- Drafted privacy documentation for a facial recognition platform (biometric data, consent, children's data).
+- Promoted from trainee to junior full stack developer (Java, Spring Boot, Angular) in under six months.
 
-I'm Luiz Gustavo, a **Full Stack Software Developer** passionate about technology, software development, and building digital solutions. I'm a Brazilian lawyer with an active OAB registration and a beekeeper by hobby, with a background shaped by the intersection of legal reasoning, requirements analysis, and application development.
+**Currently**
+- 🔐 Building a privacy and GRC portfolio: ROPA, DPIA, ISO 27001 gap analysis, risk register, compliance as code.
+- 🛡️ Studying offensive security (PortSwigger, TryHackMe) and documenting labs as professional reports.
+- 💼 Open to roles in AppSec, GRC, privacy, DevOps and software development, remote or with relocation.
 
-I work on web applications, APIs, integrations, data processing pipelines, automation workflows, and mobile applications. My experience includes software architecture, asynchronous processing, databases, software quality, data privacy, and cybersecurity fundamentals.
+#### Tech stack
+- **Languages:** Java, TypeScript, JavaScript, Go, Python, PHP, SQL
+- **Back end:** Spring Boot, Spring Security, Node.js (Fastify, NestJS, Express), Laravel, REST APIs, queues (Redis, BullMQ)
+- **Front end & apps:** Angular, React, Next.js, React Native, Electron, Tailwind CSS
+- **Data:** PostgreSQL, MySQL, SQLite, MongoDB, Redis, Prisma
+- **DevOps & cloud:** Docker, Nginx, GitHub Actions (CI/CD), Vercel, Render, Railway, VPS, AWS fundamentals
 
-My legal background also provides a strong perspective for technology environments involving **LGPD, data protection, compliance, regulatory requirements, and complex business rules**.
+#### Security, privacy & GRC
+- **AppSec:** OWASP Top 10, OWASP ZAP, security headers, SSRF protection, authentication and authorization (JWT, OAuth), least privilege
+- **Privacy:** LGPD, GDPR, privacy by design, records of processing, DPIA, data subject rights, incident response
+- **GRC:** ISO/IEC 27001 and 27002, risk management (ISO 31000), NIST CSF, vendor assessment, compliance automation
 
-## Tech Stack & Architecture
+#### Certifications & training (2026)
+Cisco (Introduction to Cybersecurity, Networking Basics) · ENISA (IT Security and Risk Management) · AWS Cloud Practitioner Essentials · ENAP (LGPD, 25 h) · CS50 (Brazilian edition of Harvard's CS50, 70 h)
 
-<img src="https://skillicons.dev/icons?i=java,spring,py,hibernate,ts,js,react,angular,nodejs,nestjs,html,css,tailwind,postgres,mysql,mongodb,redis,docker,git,github,vscode" />
+#### Languages
+Portuguese (native) · English (C1) · Spanish (C1) · French (A2)
 
-**Backend & APIs:** Java • Spring Boot • Spring Security • Spring Data JPA • Hibernate • Node.js • Fastify • NestJS • REST APIs • JWT • JSON • HTTP Integrations
+#### Contact
+[LinkedIn](https://www.linkedin.com/in/luizgustavocs) · luizgustavocstech@gmail.com
 
-**Frontend:** React • Angular • TypeScript • JavaScript • Vite • HTML • CSS • Tailwind CSS • Radix UI • React Router • Angular Signals • Reactive Forms • Recharts • Responsive SPAs
+<sub>Off the keyboard: I keep bees. 🐝</sub>
 
-**Mobile:** React Native • Expo • React Navigation • AsyncStorage • Expo Haptics • Animated API • PanResponder • Mobile UX • Android Development
+<details>
+<summary>🇧🇷 Versão em português</summary>
 
-**Data & Processing:** PostgreSQL • MySQL • MongoDB • Redis • BullMQ • Prisma ORM • Workers • Crawlers • Web Scraping • node-cron • Asynchronous Processing • Data Persistence • Data Pipelines
+**Desenvolvedor de Software e Advogado (OAB) | Cibersegurança, Privacidade (LGPD/GDPR) e GRC**
 
-**Architecture & Patterns:** Layered Architecture • Service-Oriented Architecture (SOA) • Monorepos • Separation of Concerns • Strategy Pattern • Template Method Pattern • Distributed Queues • Service Decoupling
+Desenvolvo software e entendo a lei que rege os dados dentro dele. Tenho experiência profissional em sistemas corporativos e em projetos completos para clientes, do levantamento de requisitos ao deploy e ao suporte, e atuo como advogado desde 2022, com foco em proteção de dados. Meu objetivo de carreira é cibersegurança e privacidade: segurança de aplicações, GRC e proteção de dados, onde precisão técnica e conhecimento regulatório se encontram.
 
-**Authentication & Security:** JWT • Authentication & Authorization • Session Management • Supabase Auth • Environment Variable Security • Data Privacy
+**Destaques**
+- Entreguei a uma clínica odontológica e médica um sistema de gestão offline (Electron, React, TypeScript, SQLite) e um site com registro de consentimento conforme a LGPD.
+- Montei pipelines de CI/CD no GitHub Actions que constroem imagens Docker e fazem deploy em VPS com Nginx.
+- Criei o **Raio-X**, que analisa sites com base no OWASP Top 10 e relaciona cada falha à LGPD.
+- Redigi a documentação de privacidade de uma plataforma de reconhecimento facial (dados biométricos, consentimento, dados de crianças).
+
+**Aberto a vagas** em AppSec, GRC, privacidade, DevOps e desenvolvimento, remotas ou com mudança.
+</details>
