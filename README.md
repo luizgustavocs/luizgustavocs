@@ -1,5 +1,4 @@
 ### Luiz Gustavo Costa e Silva
-
 **Software Developer & Brazilian Lawyer (OAB) | Cybersecurity, Privacy (LGPD/GDPR) & GRC**
 
 <p align="left">
@@ -53,7 +52,7 @@ Portuguese (native) · English (C1) · Spanish (C1) · French (A2)
 <sub>Off the keyboard: I keep bees. 🐝</sub>
 
 <details>
-<summary>🇧🇷 Versão em português</summary>
+<summary> 🇧🇷 Versão em português</summary>
 
 **Desenvolvedor de Software e Advogado (OAB) | Cibersegurança, Privacidade (LGPD/GDPR) e GRC**
 
