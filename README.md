@@ -64,4 +64,4 @@ Desenvolvo software e entendo a lei que rege os dados dentro dele. Desenvolvedor
 **No momento:** construindo um portfólio de privacidade e GRC, estudando segurança ofensiva e aberto a vagas em AppSec, GRC, privacidade, DevOps e desenvolvimento (remotas ou com mudança).
 </details>
 
-<sub>Outside work: beekeeping.</sub>
+<sub>Outside work: 🐝beekeeping.</sub>
