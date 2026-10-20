@@ -13,7 +13,6 @@ I build software and I understand the law that governs the data inside it. I hav
 - Built CI/CD pipelines on GitHub Actions that build Docker images and deploy to a VPS behind Nginx.
 - Created **Raio-X**, a scanner that checks websites against the OWASP Top 10 and maps each finding to LGPD impact.
 - Drafted privacy documentation for a facial recognition platform (biometric data, consent, children's data).
-- Promoted from trainee to junior full stack developer (Java, Spring Boot, Angular) in under six months.
 
 **Currently**
 - 🔐 Building a privacy and GRC portfolio: ROPA, DPIA, ISO 27001 gap analysis, risk register, compliance as code.
